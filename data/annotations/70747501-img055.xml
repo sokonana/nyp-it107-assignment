@@ -1,0 +1,45 @@
+<annotation>
+<folder>images</folder>
+<filename>70747501-img055.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>1140</width>
+<height>760</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Giant panda</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>550</xmin>
+<ymin>260</ymin>
+<xmax>756</xmax>
+<ymax>402</ymax>
+</bndbox>
+</object>
+<object>
+<name>Giant panda</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>312</xmin>
+<ymin>212</ymin>
+<xmax>387</xmax>
+<ymax>315</ymax>
+</bndbox>
+</object>
+</annotation>

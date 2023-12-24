@@ -1,0 +1,33 @@
+<annotation>
+<folder>images</folder>
+<filename>b08f4d76-img080.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>1000</width>
+<height>667</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Red panda</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>100</xmin>
+<ymin>42</ymin>
+<xmax>691</xmax>
+<ymax>487</ymax>
+</bndbox>
+</object>
+</annotation>

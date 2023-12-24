@@ -1,0 +1,45 @@
+<annotation>
+<folder>images</folder>
+<filename>1b682260-img024.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>6568</width>
+<height>4381</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Giant panda</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>2281</xmin>
+<ymin>1305</ymin>
+<xmax>3728</xmax>
+<ymax>2803</ymax>
+</bndbox>
+</object>
+<object>
+<name>Giant panda</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>3518</xmin>
+<ymin>2020</ymin>
+<xmax>4726</xmax>
+<ymax>3353</ymax>
+</bndbox>
+</object>
+</annotation>

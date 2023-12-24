@@ -1,0 +1,45 @@
+<annotation>
+<folder>images</folder>
+<filename>6d701712-img111.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>2100</width>
+<height>1400</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Red panda</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>701</xmin>
+<ymin>166</ymin>
+<xmax>1110</xmax>
+<ymax>632</ymax>
+</bndbox>
+</object>
+<object>
+<name>Red panda</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>1354</xmin>
+<ymin>393</ymin>
+<xmax>1752</xmax>
+<ymax>810</ymax>
+</bndbox>
+</object>
+</annotation>
